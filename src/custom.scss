@@ -1,0 +1,12 @@
+$theme-colors: (
+  "primary": #0029FF,
+  "primary-light": #3683F0,
+  "danger": #FF2C55,
+  "nav-gray": #F0F0F0,
+  "black": #000000,
+  "white": #ffffff,
+  "gray": #E9ECEF
+);
+
+
+@import '~bootstrap/scss/bootstrap.scss';
